@@ -6,7 +6,4 @@ public class BisBean implements Serializable {
     public BisBean() {
         super();
     }
-
-    
-
 }
