@@ -10,6 +10,7 @@ import javax.naming.NamingException;
 import javax.sql.DataSource;
 
 import org.apache.log4j.Logger;
+import utility.BisConstants;
 
 public class DatabaseService {
     private static DataSource dataSource = null;
